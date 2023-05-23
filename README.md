@@ -10,7 +10,7 @@ This is a web scraping script written in Node.js using Puppeteer. It allows you 
 ## Installation
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/shopee-web-scraper.git
+git clone https://github.com/Nova-Gear/bot-visitor-shopee.git
 
 2. Navigate to the project directory:
 cd shopee-web-scraper
